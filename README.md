@@ -26,8 +26,6 @@ Type in the name of your favorite cocktail in the search bar and see the results
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 
-![BULMA Badge](https://wikiki.github.io/images/made-with-bulma.png?style=for-the-badge&logo=bulma&logoColor=white)
-
 
 ### Features:
 
